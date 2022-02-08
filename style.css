@@ -1,0 +1,44 @@
+
+
+body {
+    
+    min-height: 100vh;
+    background-image: url(./assets/jukebox-g5a0493d59_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.flex__column{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.selecionar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 20px;
+    
+}
+
+select, input{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color:rgb(133, 7, 80);
+    color: white;
+    border:#ff51e8;
+    box-shadow: 0 0 1px #ff51e8, 0 0 2px #ff51e8, 0 0 6px #ff51e8, 0 0 12px #ff51e8, inset 0 0 1px #ff51e8, inset 0 0 2px #ff51e8, inset 0 0 6px #ff51e8, inset 0 0 12px #ff51e8;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+form{
+    font-size: 20px;
+}
+
+
