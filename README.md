@@ -42,4 +42,4 @@
 
 | Foto                                         | Nome                               | GitHub                                               | Likedin                                                 | E-mail                   |
 | -------------------------------------------- | ---------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ------------------------ |
-| <img src="./img/fotogit.jpeg" width="100px"> | Romulo Craveiro de Sousa Tartaruga | [Romulo Craveiro](https://github.com/romulocraveiro) | [Linkedin](https://www.linkedin.com/in/romulocraveiro/) | romulocraveiro@gmail.com |
+| <img src="./assets/github.jpeg" width="100px"> | Romulo Craveiro de Sousa Tartaruga | [Romulo Craveiro](https://github.com/romulocraveiro) | [Linkedin](https://www.linkedin.com/in/romulocraveiro/) | romulocraveiro@gmail.com |
