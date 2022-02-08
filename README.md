@@ -2,15 +2,16 @@
 
 ## Objetivos / Aims
 
-* Criar um formulário com os seguintes campos:
+### Criar um formulário com os seguintes campos:
 - Genêro músical (elemento `<select>` com pelo menos 3 `<option>`s);
 - Música (elemento `<input type="text">` com `display: none`);
-* Create a form with the following fields:
-- Musical genre (element `<select`> with at least 3 `<option>`s);
-- Peace of music (element `<input type="text">` with `display: none`);
+
+### Create a form with the following fields:
+- _Musical genre (element `<select`> with at least 3 `<option>`s);_
+- _Peace of music (element `<input type="text">` with `display: none`);_
 
 - Exercício de fixação referente à aula de "formulários" no curso de Desenvolvimento de Software da Cubos Academy.
-- Exercise related to the classes about "forms" in the Software Development Course at Cubos Academy.
+- _Exercise related to the classes about "forms" in the Software Development Course at Cubos Academy._
 
 ## Problemas que consegui resolver / Problems I was able to solve
 
@@ -23,6 +24,8 @@
 
 * Um valor `"submit"` no `type`de um input funciona como um `<button>`;
 * Método `preventDefault()`. 
+* A value `"submit"`in in the input `type` works as a `<button>`;
+* The method `preventDefault()`.
 
 ## Tecnologias / Technologies
 
