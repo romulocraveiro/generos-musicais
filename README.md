@@ -22,10 +22,9 @@
 
 ## Algumas lições que aprendi / Some lessons I learned
 
-* Um valor `"submit"` no `type`de um input funciona como um `<button>`;
-* Método `preventDefault()`. 
-* A value `"submit"`in in the input `type` works as a `<button>`;
-* The method `preventDefault()`.
+* Um valor `"submit"` no `type`de um input funciona como um `<button>`; 
+* A value `"submit"`in the input `type` works as a `<button>`;
+
 
 ## Tecnologias / Technologies
 
