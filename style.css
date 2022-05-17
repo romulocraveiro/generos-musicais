@@ -39,6 +39,37 @@ select, input{
 
 form{
     font-size: 20px;
+    position: relative;
 }
 
+.escondido{
+    display:none;
+}
 
+modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(0, 128, 0);
+    color: white;
+    height: 60px;
+    width: 300px;
+    position: absolute;
+    left: 85%;
+    top: 60%;
+}
+
+img.warning{
+    width: 10%;
+}
+
+span.triangle{
+    
+    border-bottom: 15px solid rgb(0, 128, 0);
+    border-right: 15px solid transparent;
+    border-left: 15px solid transparent;
+    position: absolute;
+    top: -15px;
+    left: 10px;
+    
+}

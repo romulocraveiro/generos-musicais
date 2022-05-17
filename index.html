@@ -15,7 +15,7 @@
        
         <form action="https://www.google.com/search" target = "_blank" method="GET" class="flex__column">
             <div class="selecionar">
-                <select name = "genero" id="genero" required> 
+                <select name = "genero" id="genero"> 
                     <option value="" selected>Selecione um gênero musical</option>
                     <option value="Rimsky-Korsakov: Scheherazade op.35">Clássico</option>
                     <option value="Coco Lia de Itamaracá">Coco</option>
@@ -44,8 +44,16 @@
                     <option value="La partida valsa venezuelana">Valsa Venezuelana</option>
                 </select> 
             </div>
+
+            <modal class="escondido">
+                <span class="triangle"></span>
+                <img class="warning" src="./assets/eastshores_Warning_Notification.svg" alt="">
+                Selecione um item da lista 
+            </modal>
+
             <input id="q" type="text" name="q" value="" style="display: none;">
             <input type="submit" value="Ouça a música">
+            
         </form>
             
 </body>
